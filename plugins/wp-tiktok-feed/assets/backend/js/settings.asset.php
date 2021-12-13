@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('jquery', 'jquery-serializejson', 'underscore', 'wp-util'), 'version' => 'c72af31211938f9d322ab1e5e5553eb4');

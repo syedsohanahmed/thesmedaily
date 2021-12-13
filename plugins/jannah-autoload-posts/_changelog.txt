@@ -1,0 +1,31 @@
+*** Changelog ***
+-------------------------------------------------------------------------
+
+Version 1.1.2 - 19 Apr 2021
+- Fix: "jQuery is not defined" bug.
+- Improvements and minor bug fixes.
+
+Version 1.1.1 - 10 Dec 2020
+- Fix: "jQuery is not defined" bug.
+- Improvements and minor bug fixes.
+
+Version 1.1.0 - 21 Nov 2020
+- New: Option to load posts by tags.
+- Fix: Duplicated posts bug.
+- Improvements and minor bug fixes.
+
+Version 1.0.4 - 14 Nov 2020
+- Improvements and minor bug fixes.
+
+Version 1.0.3 - 13 Sep 2020
+- Improvements and minor bug fixes.
+
+Version 1.0.2 - 02 Sep 2020
+- Fix: Number of posts option bug.
+- Fix: Conflict with some caching plugins.
+
+Version 1.0.1 - 31 Aug 2020
+- Improvements and minor bug fixes.
+
+Version 1.0.0
+- First release
